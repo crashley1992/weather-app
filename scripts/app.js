@@ -1,6 +1,6 @@
 var city = "Seattle";
 var apiKey = "a5db6018f19e8b611518d1732375d68e";
-var queryURL = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid="  + apiKey;
+var queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid="  + apiKey;
 
 
 

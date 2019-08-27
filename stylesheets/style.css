@@ -1,0 +1,14 @@
+
+/*Changes color for navbar*/
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #FFAC45;
+}
+
+#homepage-banner-img {
+    width: 100%;
+}
+
+.weather-output {
+    text-align: center;
+}
